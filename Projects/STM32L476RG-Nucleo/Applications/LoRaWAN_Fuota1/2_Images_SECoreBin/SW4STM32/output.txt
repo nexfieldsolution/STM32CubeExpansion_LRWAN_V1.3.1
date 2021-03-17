@@ -1,0 +1,5 @@
+prebuild.sh : started
+../../../Binary/ECCKEY.txt
+prepareimage with windows executeable
+ D:/PROJECT/work/M3/STM32CubeIDE/workspace_SW4/STM32CubeExpansion_LRWAN_V1.3.1/Middlewares/ST/STM32_Secure_Engine/Utilities/KeysAndImages/win/prepareimage/prepareimage.exe
+SECBOOT_ECCDSA_WITHOUT_ENCRYPT_SHA256 selected
